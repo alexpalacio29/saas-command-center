@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Command Center",
+  "description": "Centro de control ejecutivo para gestionar el ciclo de vida completo de múltiples productos SaaS: métricas, roadmaps, cuellos de botella, CRM y tareas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
